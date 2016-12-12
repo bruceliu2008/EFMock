@@ -1,0 +1,14 @@
+c:\users\liujianhong\documents\visual studio 2015\Projects\TestingDemo\TestingDemo\bin\Debug\TestingDemo.dll.config
+c:\users\liujianhong\documents\visual studio 2015\Projects\TestingDemo\TestingDemo\bin\Debug\TestingDemo.dll
+c:\users\liujianhong\documents\visual studio 2015\Projects\TestingDemo\TestingDemo\bin\Debug\TestingDemo.pdb
+c:\users\liujianhong\documents\visual studio 2015\Projects\TestingDemo\TestingDemo\bin\Debug\Castle.Core.dll
+c:\users\liujianhong\documents\visual studio 2015\Projects\TestingDemo\TestingDemo\bin\Debug\EntityFramework.dll
+c:\users\liujianhong\documents\visual studio 2015\Projects\TestingDemo\TestingDemo\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\liujianhong\documents\visual studio 2015\Projects\TestingDemo\TestingDemo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\liujianhong\documents\visual studio 2015\Projects\TestingDemo\TestingDemo\bin\Debug\Moq.dll
+c:\users\liujianhong\documents\visual studio 2015\Projects\TestingDemo\TestingDemo\bin\Debug\Castle.Core.xml
+c:\users\liujianhong\documents\visual studio 2015\Projects\TestingDemo\TestingDemo\bin\Debug\EntityFramework.xml
+c:\users\liujianhong\documents\visual studio 2015\Projects\TestingDemo\TestingDemo\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\liujianhong\documents\visual studio 2015\Projects\TestingDemo\TestingDemo\bin\Debug\Moq.xml
+c:\users\liujianhong\documents\visual studio 2015\Projects\TestingDemo\TestingDemo\obj\Debug\TestingDemo.dll
+c:\users\liujianhong\documents\visual studio 2015\Projects\TestingDemo\TestingDemo\obj\Debug\TestingDemo.pdb
